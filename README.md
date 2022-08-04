@@ -10,5 +10,4 @@
 
 
 
-![Snake animation](https://github.com/rdsantanali/rdsantanali/blob/output/github-contribution-grid-snake.svg) 
-
+  ![Snake animation](https://github.com/rdsantanali/rafaballerini/blob/output/github-contribution-grid-snake.svg)
